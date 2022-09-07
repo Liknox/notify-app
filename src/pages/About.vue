@@ -6,9 +6,9 @@
 					<h2>In this App:</h2>
 					<div class="main-div">
 						<ul class="ul-line">
-							<li>Working with Vue-Router</li>
-							<li>Creating dynamic routes</li>
-							<li>Store and interact with data form Vuex</li>
+							<li>Creating your own API</li>
+							<li>CORS - sharing own API</li>
+							<li>LoadMore - Gradual content loading</li>
 							<li>Lazy content loading</li>
 							<li>Preloader and date update</li>
 							<li>Storing API data in Vuex</li>
@@ -63,10 +63,10 @@ img {
 
 @media (max-width: 400px) {
 	img {
-      margin-top: 20px;
+		margin-top: 20px;
 	}
 	.main-div {
-      flex-direction: column;
+		flex-direction: column;
 	}
 }
 </style>
