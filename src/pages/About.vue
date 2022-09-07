@@ -20,7 +20,7 @@
 
 <style lang="scss" scoped>
 .wrapper-content {
-	height: 500vh;
+	// height: 500vh;
 	justify-content: center;
 }
 .demo {
