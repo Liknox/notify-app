@@ -15,7 +15,7 @@
 						</ul>
 						<img src="../assets/img/logo/1184px-Vue.js_Logo_2.svg.png" alt="" />
 					</div>
-					<h2>My <a class="link" target="_blank" href="https://github.com/liknox">Github</a> page</h2>
+					<h2 class="marginella">My <a class="link" target="_blank" href="https://github.com/liknox">Github</a> page</h2>
 				</div>
 			</div>
 		</section>
@@ -36,7 +36,11 @@
 		padding-bottom: 0.66rem;
 		text-align: center;
 	}
+	h2.marginella {
+      margin-top: 10px;
+	}
 	&-content {
+		padding-bottom: 10px !important;
 		padding: 40px 0;
 		background-color: #fff;
 	}
@@ -61,7 +65,6 @@
 img {
 	width: 200px;
 }
-
 @media (max-width: 400px) {
 	img {
 		margin-top: 20px;
