@@ -15,6 +15,7 @@
 						</ul>
 						<img src="../assets/img/logo/1184px-Vue.js_Logo_2.svg.png" alt="" />
 					</div>
+					<h2>My <a class="link" target="_blank" href="https://github.com/liknox">Github</a> page</h2>
 				</div>
 			</div>
 		</section>
